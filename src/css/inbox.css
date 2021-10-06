@@ -1,0 +1,44 @@
+#details:hover + #detailsdrop{
+
+    display: block;
+    
+    background-color: black;
+    color: white;
+    
+
+}
+
+button {
+
+    font-family: Consolas;
+    background-color: 'rgba(52, 52, 52, 0.8)'
+}
+
+#detailsdrop{
+
+    display: none;
+    transition: 0.3s;
+
+}
+
+#details{
+
+    transition: 0.3s;
+}
+#box{
+
+    transition: 0.2s;
+}
+#box:hover{
+
+    transform: scale(1.01);
+
+
+
+}
+#archive:hover{
+
+    background-color: green;
+    color: white;
+
+}
