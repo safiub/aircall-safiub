@@ -17,7 +17,7 @@ const App = () => {
   
   function x() {
 
-    document.getElementById("head").innerHTML = "S"
+    document.getElementById("head").innerHTML = "Sw"
     
 
   }
